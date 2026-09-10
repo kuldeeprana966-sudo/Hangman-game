@@ -1,0 +1,6 @@
+# CodeAlpha_HangmanGame - Requirements
+# This project uses only Python Standard Libraries (random).
+# No external third-party packages or dependencies are required.
+
+# Recommended Python Version:
+# Python >= 3.6
